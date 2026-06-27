@@ -6,7 +6,7 @@ import Transactions from "./Component/Transaction/Transaction";
 function App() {
   return (
     <BrowserRouter>
-      <Navbar />
+      <NavBar />
 
   <Routes>
     <Route path="/" element={<Dashboard />} />
