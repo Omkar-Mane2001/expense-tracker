@@ -1,4 +1,4 @@
-import "./NavBar.css"
+import "./Navbar.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faWallet, faHouse, faList, faPlus, faTag, faChartPie, faChartColumn, faGear} from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
