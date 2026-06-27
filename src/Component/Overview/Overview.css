@@ -1,0 +1,39 @@
+.overview{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    margin-top:25px;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+.overview-header{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:20px;
+}
+
+.overview-content{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.chart{
+    width:45%;
+    text-align:center;
+}
+
+.category-list{
+    width:45%;
+}
+
+.category-item{
+    display:flex;
+    justify-content:space-between;
+    padding:12px 0;
+    border-bottom:1px solid #eee;
+}
+
+.category-item:last-child{
+    border:none;
+}
