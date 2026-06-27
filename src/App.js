@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from "./Component/NavBar/Navbar";
+import NavBar from "./Component/Navbar/NavBar";
 import Dashboard from "./Component/Dashboard/Dashboard";
 import AddExpense from "./Component/AddExpense/AddExpense";
 import Transactions from "./Component/Transaction/Transaction"; 
